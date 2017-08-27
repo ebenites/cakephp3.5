@@ -5,6 +5,8 @@ class ClientesController extends AuthController{
     
     public function index() {
         
+        // comentario
+        
     }
     
     public function listar() {
